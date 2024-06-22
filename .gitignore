@@ -5,3 +5,6 @@
 *.zip
 *.zip
 *.pdf
+content/xtest_scaled2.pkl
+content/Xtrain_scaled2_1.pkl
+content/xval_scaled2.pkl
